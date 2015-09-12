@@ -1,0 +1,43 @@
+#info {
+	position: fixed;
+
+}
+
+#page1 {
+	height: 800px;
+	width: auto;
+	background-color: #FAFAD2;
+	//overflow: hidden;
+	//position: relative;
+	//position: absolute;
+
+	
+	
+
+}
+
+#page2 {
+	height: 800px;
+	width:auto;
+	background-color: #00FA9A;
+//	background-color: white;
+//	position: relative;
+	opacity: 1;
+}
+
+
+#page3 {
+	height: 800px;
+	width: auto;
+	background-color: #DEB887;
+
+
+}
+
+#page4 {
+	height: 800px;
+	width: auto;
+	background-color: #2F4F4F;
+
+
+}
